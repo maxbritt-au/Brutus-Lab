@@ -40,4 +40,8 @@ Example below.
 *Ref 4: First question answered correctly*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/0af429da-9204-492a-8986-56acd407307f" />
 
+*Ref 5: Auth.log showing name of account*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/14b4de48-528d-447a-a861-1baba2cc1e78" />
+
+
 
