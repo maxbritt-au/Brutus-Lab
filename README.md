@@ -43,5 +43,9 @@ Example below.
 *Ref 5: Auth.log showing name of account*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/14b4de48-528d-447a-a861-1baba2cc1e78" />
 
+*Ref 6: wtmp file showing timestamp for answer 3*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/c6543a0e-908f-4031-a231-6cb5a99b2aa8" />
+
+
 
 
