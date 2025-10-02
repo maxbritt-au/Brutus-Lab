@@ -34,3 +34,7 @@ Example below.
 *Ref 2: utmp.py doc*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/d3f2586c-bf77-4212-98b4-201584d919fe" />
 
+*Ref 3: Auth.log doc showing ip address of attacker*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/00b25315-2343-42ca-ac01-4f43b7e5b548" />
+
+
