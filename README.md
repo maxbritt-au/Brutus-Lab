@@ -37,4 +37,7 @@ Example below.
 *Ref 3: Auth.log doc showing ip address of attacker*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/00b25315-2343-42ca-ac01-4f43b7e5b548" />
 
+*Ref 4: First question answered correctly*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/0af429da-9204-492a-8986-56acd407307f" />
+
 
