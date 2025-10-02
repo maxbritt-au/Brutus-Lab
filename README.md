@@ -46,6 +46,9 @@ Example below.
 *Ref 6: wtmp file showing timestamp for answer 3*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/c6543a0e-908f-4031-a231-6cb5a99b2aa8" />
 
+*Ref 7: Session id correlating with question 2*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/878de45d-f628-411d-986f-bd5db91e3bb6" />
+
 
 
 
