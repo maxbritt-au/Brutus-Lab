@@ -1,12 +1,10 @@
 # Brutus-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 Investigate the provided forensic artefacts from the HackTheBox Brutus DFIR challenge to identify suspicious authentication activity and an attacker’s interactive session. Produce an evidence-backed timeline from auth.log and wtmp, demonstrate basic forensic parsing, and make containment and remediation recommendations aligned to NIST CSF functions (Detect, Respond).
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Practical log acquistion, verification and parsing of Linux artefacts (auth.log, wtmp).
 - Correlation of authentication events to interactive sessions to produce an incident timeline.
@@ -14,7 +12,6 @@ Investigate the provided forensic artefacts from the HackTheBox Brutus DFIR chal
 - Basic DFIR workflow.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - WSL (Ubuntu) - Linux environment
 - 7zip - To extract zipped files
