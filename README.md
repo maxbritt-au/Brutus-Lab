@@ -52,6 +52,10 @@ Example below.
 *Ref 8: Creation on cyberjunkie account for question 5*
 <img width="3839" height="2396" alt="image" src="https://github.com/user-attachments/assets/af445027-b371-4eaf-901f-9baa56704446" />
 
+*Ref 9: Attacker created new local account (cyberjunkie) to stay in the system*
+<img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/34235e2a-d0d3-4bad-87c3-61c6d675da0f" />
+
+
 
 
 
