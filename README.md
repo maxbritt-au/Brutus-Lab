@@ -55,6 +55,10 @@ Example below.
 *Ref 9: Attacker created new local account (cyberjunkie) to stay in the system*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/34235e2a-d0d3-4bad-87c3-61c6d675da0f" />
 
+*Ref 10: Command used to download script for question 8*
+<img width="3836" height="2399" alt="image" src="https://github.com/user-attachments/assets/7485e4f8-2c06-42df-b84d-f4a490b3dbbc" />
+
+
 
 
 
