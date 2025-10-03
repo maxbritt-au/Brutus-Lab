@@ -62,6 +62,9 @@ Example below.
 *Ref 11: Command used to download script for question 8*
 <img width="3836" height="2399" alt="image" src="https://github.com/user-attachments/assets/7485e4f8-2c06-42df-b84d-f4a490b3dbbc" />
 
+*Ref 12: Completion of Lab*
+<img width="3837" height="2385" alt="image" src="https://github.com/user-attachments/assets/4d57bd61-1c83-45c6-b377-a540fe93ac8d" />
+
 
 
 
