@@ -3,23 +3,23 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Investigate the provided forensic artefacts from the HackTheBox Brutus DFIR challenge to identify suspicious authentication activity and an attacker’s interactive session. Produce an evidence-backed timeline from auth.log and wtmp, demonstrate basic forensic parsing, and make containment and remediation recommendations aligned to NIST CSF functions (Detect, Respond).
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Practical log acquistion, verification and parsing of Linux artefacts (auth.log, wtmp).
+- Correlation of authentication events to interactive sessions to produce an incident timeline.
+- Use of WSL and forensic tools (7zip, last, Python parser) to access and interpret binary artefacts.
+- Basic DFIR workflow.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- WSL (Ubuntu) - Linux environment
+- 7zip - To extract zipped files
+- last (from util-linux) — to parse wtmp into human-readable sessions.
+- python3 and supplied utmp.py — to parse wtmp where last was insufficient.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
@@ -57,7 +57,6 @@ Example below.
 
 *Ref 10: Timestamp session 37 ended for question 7*
 <img width="3839" height="2399" alt="image" src="https://github.com/user-attachments/assets/31575f23-7242-4fb7-886c-a2df488b094a" />
-
 
 *Ref 11: Command used to download script for question 8*
 <img width="3836" height="2399" alt="image" src="https://github.com/user-attachments/assets/7485e4f8-2c06-42df-b84d-f4a490b3dbbc" />
